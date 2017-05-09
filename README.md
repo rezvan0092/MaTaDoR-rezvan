@@ -1,4 +1,4 @@
-# [MahDiRoO](https://telegram.me/MahDiRoO)
+# [RezvanSiS](https://telegram.me/Abrezvan)
 
 
 * * *
@@ -49,7 +49,7 @@ cd MaTaDoR && screen ./auto.sh
 Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following format:
 ```
     sudo_users = {
-    377450049,
+    131982668,
     0,
     YourID
   }
